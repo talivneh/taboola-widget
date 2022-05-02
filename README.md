@@ -11,7 +11,7 @@
 
 ```
 API_KEY = <<<the actual api-key>>>
-ADS_COUNT = <<<the number of ads you wish to see, for exampl: 6>>>
+ADS_COUNT = <<<the number of ads you wish to see, for example: 6>>>
 ```
 
 <p>3. Run the following commands:</p>
