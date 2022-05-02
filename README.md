@@ -1,6 +1,6 @@
 <h1>Taboola Widget - Home Assignment </h1>
 
-####by Tal Livneh
+#### by Tal Livneh
 
 ## Instructions
 
