@@ -1,8 +1,6 @@
-# Taboola Widget - Home Assingment 
+<h1>Taboola Widget - Home Assignment </h1>
 
-**by Tal Livneh**
-
-____
+####by Tal Livneh
 
 ## Instructions
 
@@ -26,7 +24,7 @@ ADS_COUNT = <<<the number of ads you wish to see, for exampl: 6>>>
 
 [This Link](http://localhost:8080/)
 
-____
+###
 
 <p><b>For testing the widget, run:</b></p>
 
