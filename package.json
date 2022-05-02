@@ -1,0 +1,32 @@
+{
+  "name": "taboola-widget",
+  "description": "Home assignment for Taboola",
+  "author": "Tal Livneh",
+  "scripts": {
+    "start": "webpack serve --open --inline --content-base ./src",
+    "test": "jest"
+  },
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "@babel/runtime": "^7.17.9",
+    "dotenv-webpack": "^7.1.0",
+    "jest-environment-jsdom": "^28.0.2",
+    "prettier": "^2.6.2",
+    "webpack": "^5.72.0",
+    "webpack-dev-server": "^3.11.3"
+  },
+  "devServer": {
+    "open": true
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "@testing-library/jest-dom": "^5.16.4",
+    "babel-jest": "^28.0.3",
+    "dotenv": "^16.0.0",
+    "jest": "^28.0.3",
+    "process": "^0.11.10",
+    "webpack-cli": "^4.9.2"
+  }
+}
