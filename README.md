@@ -2,7 +2,7 @@
 
 **by Tal Livneh**
 
-___
+____
 
 ## Instructions
 
@@ -26,7 +26,7 @@ ADS_COUNT = <<<the number of ads you wish to see, for exampl: 6>>>
 
 [This Link](http://localhost:8080/)
 
-___
+____
 
 <p><b>For testing the widget, run:</b></p>
 
